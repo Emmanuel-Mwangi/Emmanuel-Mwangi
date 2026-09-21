@@ -3,9 +3,11 @@
 
 Cybersecurity student pursuing a Diploma in Cyber Security & Ethical Hacking, with a Certificate in Cybersecurity and hands-on experience using Wireshark, Nmap, and scripting (Python, Bash, PowerShell) in security labs. Developing skills in network security, firewall configuration, Windows and Linux environments, traffic analysis, and cybersecurity fundamentals. 
 
+
 ## Objective
 
 My journey in Software Development has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join different sectors in the Security Operations Center (SOC) as a Tier 1 Analyst, Penetration Tester, Vulnerability Assessment, Incident Response, Network Operation Center (SOC), Cybersecurity Analyst, and many more
+
 
 ## Skills
 
@@ -19,9 +21,8 @@ My journey in Software Development has led me to develop a passion for cybersecu
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Project1</a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Write-up1</a>|
 
+
 ## Tools
-
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -41,7 +42,6 @@ My journey in Software Development has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
 
 
 ## Projects
