@@ -4,7 +4,6 @@
 Cybersecurity student pursuing a Diploma in Cyber Security & Ethical Hacking, with a Certificate in Cybersecurity and hands-on experience using Wireshark, Nmap, and scripting (Python, Bash, PowerShell) in security labs. Developing skills in network security, firewall configuration, Windows and Linux environments, traffic analysis, and cybersecurity fundamentals. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in Software Development has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join different sectors in the Security Operations Center (SOC) as a Tier 1 Analyst, Penetration Tester, Vulnerability Assessment, Incident Response, Network Operation Center (SOC), Cybersecurity Analyst, and many more
 
@@ -18,6 +17,7 @@ My journey in Software Development has led me to develop a passion for cybersecu
 | Incident Response Planning and Execution      |<a href="https://google.com">Project1</a>|
 | Case Management with TheHive                  |<a href="https://google.com">Project1</a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Project1</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://google.com">Write-up1</a>|
 
 ## Tools
 
@@ -46,3 +46,6 @@ My journey in Software Development has led me to develop a passion for cybersecu
 
 ## Projects
 - Add more projects
+
+## CTF Write-Ups
+- Add more CTF Write-Ups
