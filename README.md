@@ -21,6 +21,8 @@ My journey in Software Development has led me to develop a passion for cybersecu
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Project6</a>|
 
 
+
+
 | Skill                                         | Write-ups        |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          |<a href="https://google.com">Write-up1</a>|
@@ -29,6 +31,9 @@ My journey in Software Development has led me to develop a passion for cybersecu
 | Incident Response Planning and Execution      |<a href="https://google.com">Write-up4</a>|
 | Case Management with TheHive                  |<a href="https://google.com">Write-up5</a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://google.com">Write-up6</a>|
+
+
+
 
 
 ## Tools
@@ -53,8 +58,12 @@ My journey in Software Development has led me to develop a passion for cybersecu
 </div>
 
 
+
+
 ## Projects
 - Add more projects
+
+
 
 ## CTF Write-Ups
 - Add more CTF Write-Ups
