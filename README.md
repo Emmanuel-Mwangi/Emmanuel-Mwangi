@@ -15,11 +15,20 @@ My journey in Software Development has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          |<a href="https://google.com">Project1</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Project2</a>|
-| Security Automation with Shuffle SOAR         |<a href="https://google.com">Project1</a>|
-| Incident Response Planning and Execution      |<a href="https://google.com">Project1</a>|
-| Case Management with TheHive                  |<a href="https://google.com">Project1</a>|
-| Scripting and Automation for Threat Mitigation |<a href="https://google.com">Project1</a>|
-| Scripting and Automation for Threat Mitigation |<a href="https://google.com">Write-up1</a>|
+| Security Automation with Shuffle SOAR         |<a href="https://google.com">Project3</a>|
+| Incident Response Planning and Execution      |<a href="https://google.com">Project4</a>|
+| Case Management with TheHive                  |<a href="https://google.com">Project5</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://google.com">Project6</a>|
+
+
+| Skill                                         | Write-ups        |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          |<a href="https://google.com">Write-up1</a>|
+| Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Write-up2</a>|
+| Security Automation with Shuffle SOAR         |<a href="https://google.com">Write-up3</a>|
+| Incident Response Planning and Execution      |<a href="https://google.com">Write-up4</a>|
+| Case Management with TheHive                  |<a href="https://google.com">Write-up5</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://google.com">Write-up6</a>|
 
 
 ## Tools
