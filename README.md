@@ -1,4 +1,4 @@
-# Hello, Emmanuel Mwangi 
+# Hello, I am Emmanuel Mwangi 
 <a href="https://linkedin.com/in/emmanuelmwangi25/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity student pursuing a Diploma in Cyber Security & Ethical Hacking, with a Certificate in Cybersecurity and hands-on experience using Wireshark, Nmap, and scripting (Python, Bash, PowerShell) in security labs. Developing skills in network security, firewall configuration, Windows and Linux environments, traffic analysis, and cybersecurity fundamentals. 
@@ -62,7 +62,6 @@ My journey in Software Development has led me to develop a passion for cybersecu
 
 ## Projects
 - Add more projects
-
 
 
 ## CTF Write-Ups
