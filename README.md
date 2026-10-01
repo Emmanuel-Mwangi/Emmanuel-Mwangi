@@ -1,12 +1,12 @@
 # Hello, I am Emmanuel Mwangi 
-<a href="https://linkedin.com/in/emmanuelmwangi25/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 Cybersecurity student pursuing a Diploma in Cyber Security & Ethical Hacking, with a Certificate in Cybersecurity and hands-on experience using Wireshark, Nmap, and scripting (Python, Bash, PowerShell) in security labs. Developing skills in network security, firewall configuration, Windows and Linux environments, traffic analysis, and cybersecurity fundamentals. 
 
 
 ## Objective
 
-My journey in Software Development has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join different sectors in the Security Operations Center (SOC) as a Tier 1 Analyst, Penetration Tester, Vulnerability Assessment, Incident Response, Network Operation Center (SOC), Cybersecurity Analyst, and many more
+With a background in Software Development, I enjoy understanding how systems and applications work—and how they can be secured. Currently focused on developing the hands-on skills needed for SOC Analyst and Cybersecurity Analyst roles.
 
 
 ## Skills
@@ -46,9 +46,8 @@ My journey in Software Development has led me to develop a passion for cybersecu
 
 
 
-## Projects
-- Add more projects
+## Let us Connect
+<a href="https://linkedin.com/in/emmanuelmwangi25/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /><a/>
 
 
-## CTF Write-Ups
-- Add more CTF Write-Ups
