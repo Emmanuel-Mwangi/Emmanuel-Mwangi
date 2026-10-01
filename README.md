@@ -6,14 +6,14 @@ Cybersecurity student pursuing a Diploma in Cyber Security & Ethical Hacking, wi
 
 ## Objective
 
-With a background in Software Development, I enjoy understanding how systems and applications work—and how they can be secured. Currently focused on developing the hands-on skills needed for SOC Analyst and Cybersecurity Analyst roles.
+With a background in Software Development, I enjoy understanding how systems and applications work—and how to secure them. Currently focused on developing the hands-on skills needed for SOC Analyst and Cybersecurity Analyst roles.
 
 
 ## Skills
 
 | Skill                                         | Associated Project and Write-ups        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |<a href="https://google.com">Project1</a>|
+| Cryptograpghy and Python code Analysis          |<a href="https://github.com/Emmanuel-Mwangi/htb-last-dance-cryptography/edit/main/README.md">Last Dance CTF</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Project2</a>|
 | Security Automation with Shuffle SOAR         |<a href="https://google.com">Project3</a>|
 | Incident Response Planning and Execution      |<a href="https://google.com">Project4</a>|
