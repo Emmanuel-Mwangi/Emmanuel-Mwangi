@@ -14,11 +14,7 @@ With a background in Software Development, I enjoy understanding how systems and
 | Skill                                         | Associated Project and Write-ups        |
 |-----------------------------------------------|----------------------------|
 | Cryptograpghy and Python code Analysis          |<a href="https://github.com/Emmanuel-Mwangi/htb-last-dance-cryptography/edit/main/README.md">Last Dance CTF</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Project2</a>|
-| Security Automation with Shuffle SOAR         |<a href="https://google.com">Project3</a>|
-| Incident Response Planning and Execution      |<a href="https://google.com">Project4</a>|
-| Case Management with TheHive                  |<a href="https://google.com">Project5</a>|
-| Scripting and Automation for Threat Mitigation |<a href="https://google.com">Project6</a>|
+
 
 
 
