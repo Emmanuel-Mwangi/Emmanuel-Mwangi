@@ -22,22 +22,33 @@ With a background in Software Development, I enjoy understanding how systems and
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Firewall-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iptables-222222?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Endpoint
+### Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20OS-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu%20Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
-### SIEM
+
+### Web Development
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?&style=for-the-badge&logo=React&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=Express&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?&style=for-the-badge&logo=TailwindCSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white" />
 </div>
+
 
 
 
