@@ -13,7 +13,7 @@ With a background in Software Development, I enjoy understanding how systems and
 
 | Skill                                         | Associated Project and Write-ups        |
 |-----------------------------------------------|----------------------------|
-| Cryptograpghy and Python code Analysis          |<a href="https://github.com/Emmanuel-Mwangi/htb-last-dance-cryptography/blob/main/Last_Dance_CTF_Writeup.pdf">Last Dance CTF</a>|
+| Cryptograpghy and Python code Analysis          |<a href="https://github.com/Emmanuel-Mwangi/htb-last-dance-cryptography">Last Dance CTF</a>|
 
 
 
