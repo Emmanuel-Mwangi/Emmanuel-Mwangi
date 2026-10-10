@@ -13,13 +13,13 @@ With a background in Software Development, I enjoy understanding how systems and
 
 | Skill                                         | Associated Project and Write-ups        |
 |-----------------------------------------------|----------------------------|
-| Cryptograpghy and Python code Analysis          |<a href="https://github.com/Emmanuel-Mwangi/htb-last-dance-cryptography">Last Dance CTF</a>|
+| Cryptography and Python code Analysis          |<a href="https://github.com/Emmanuel-Mwangi/htb-last-dance-cryptography">Last Dance CTF</a>|
 
 
 
 
 ## Tools
-### Network
+### Network and Security Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
@@ -27,6 +27,7 @@ With a background in Software Development, I enjoy understanding how systems and
     <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfsense&logoColor=white" />
     <img src="https://img.shields.io/badge/-iptables-222222?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
+
 
 ### Operating Systems
 <div>
@@ -55,6 +56,6 @@ With a background in Software Development, I enjoy understanding how systems and
 
 ## Let us Connect
 <a href="https://linkedin.com/in/emmanuelmwangi25/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /><a/>
+
 
 
